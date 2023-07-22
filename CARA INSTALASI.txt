@@ -1,0 +1,5 @@
+Berikut cara INSTALASI APLIKASI ABSENSI PEGAWAI :
+
+1. hidupkan xampp MySQL dan Apache server
+2. Import Database yang bernama "absenkaryawan" di phpmyadmin
+3. Jika sudah tinggal jalankan aplikasi sesuai localhost masing-masing
